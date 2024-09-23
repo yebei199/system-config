@@ -1,2 +1,5 @@
-# system-config
-public config file 
+# instruction
+
+used for store the system config
+
+such as the yazi, zsh, nushell, etc.
