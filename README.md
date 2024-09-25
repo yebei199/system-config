@@ -6,6 +6,19 @@ such as the yazi, zsh, nushell, etc.
 
 # windows
 
-set .config folder
+## set .config folder
 
-such as make env paht : XDG_CONFIG_HOME = C:\Users\Administrator\.config
+set env path:
+XDG_CONFIG_HOME =
+
+```bash
+C:\Users\Administrator\.config
+```
+
+## yazi set
+
+set system path :
+
+```bash
+C:\Program Files\Git\usr\bin\file.exe
+```
