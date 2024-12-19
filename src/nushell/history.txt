@@ -1,0 +1,2431 @@
+ls
+nvim
+nvim $nu.config-path
+ls
+nm
+nvim $nu.config-path
+ls
+nm
+nvim
+nm
+ls
+cd ~/github-projects/
+ls
+y
+yazi
+nvim BI\frontend\src\App.tsx
+nvim
+git clone https://spacevim.org/git/repos/SpaceVim/ ~/.SpaceVim
+cd ~/github-projects/
+ls
+git clone https://spacevim.org/git/repos/SpaceVim/
+ls
+cd SpaceVim\
+ls
+q
+cd ..
+ls
+yazi
+zellij
+yazi
+ls
+clear
+yazi
+git clone https://spacevim.org/git/repos/SpaceVim/ ~/.SpaceVim
+cd ~/.config/
+ls
+yazi
+ln -s ~/.SpaceVim ~/.vim
+ln -s ~/.SpaceVim ~/.config/nvim
+nvim
+ls
+nvim $nu.config-path
+y
+yazi
+nm $nu.config-path
+y
+cd ~/.config/
+y
+scoop install neovide
+neovide
+y
+git clone https://github.com/NvChad/starter
+y
+ls
+y
+git pull
+nm lazy-lock.json
+neovide
+nm $nu.config-path
+scoop uninstall neovide
+neovide
+choco install llvm -y
+choco install cmake --installargs '"ADD_CMAKE_TO_PATH=System"' -y
+nvim $nu.config-path
+nvim
+ls
+cd ~/.config/
+ls
+cd nvim\
+ls
+y
+ls
+nvim lazy.lua
+y
+nvim lspconfig.lua
+y
+nvim init.lua
+y
+nvim lspconfig.lua
+y
+ls
+cargo install --git https://github.com/neovide/neovide.git
+neovide
+nm
+y
+nm lazy.lua
+nvim lspconfig.lua
+ls
+nvim ~/.config/yazi/config.yaml
+cd ~/.config/
+y
+nvim ~/.config/yazi/config.yaml
+mkdir  ~/.config/yazi
+nvim ~/.config/yazi/config.yaml
+y
+nvim ~/.config/yazi/config.yaml
+y
+cd  ~/.config/yazi/config.yaml
+cd  ~/.config/yazi
+ls
+y
+ls
+nvim config.toml
+y
+nvim yazi.toml
+y
+nvim yazi.toml
+y
+ls
+y
+env "YAZI_CONFIG_HOME=~/.config/yazi" yazi
+y
+ls
+nvim theme.toml
+y
+nvim theme.toml
+ls
+cd config\
+ls
+nvim theme.toml
+y
+nvim theme.toml
+y
+ls
+ls
+env "YAZI_CONFIG_HOME=~/.config/yazi" yazi
+cd ~/AppData\Roaming\yazi\config
+ls
+nvim yazi.toml
+y
+nvim theme.toml
+y
+nvim theme.toml
+y
+~/.config/yazi/
+ls
+nvim theme.toml
+nvim yazi.toml
+y
+yazi
+o
+y
+nvim $nu.config-path
+yazi
+y
+scoop install 7zip jq poppler fd ripgrep fzf zoxide imagemagick
+nvim ~/.config/yazi/yazi.toml
+y
+nvim ~/.config/yazi/yazi.toml
+y
+nvim ~/.config/yazi/yazi.toml
+y
+nvim ~/.config/yazi/yazi.toml
+y
+cd ~/AppData\Roaming\yazi\config
+nvim  ~/AppData/Roaming/yazi/config/yazi.toml
+y
+nvim  ~/AppData/Roaming/yazi/config/yazi.toml
+clear
+ksdf 
+y
+nvim  ~/AppData/Roaming/yazi/config/yazi.toml
+y
+nvim
+nvim ~/.config/nvim/init.lua
+ksd
+sl
+clear
+ls
+y
+y
+cd ~/.config/yazi
+ls
+y
+y
+cd ~/.config/yazi
+nvim yazi.toml
+y
+ls
+y
+ls
+nvim yazi.toml
+y
+scoop install file1
+file yazi.toml
+^file yazi.toml
+which file
+$env.PATH = ($env.PATH | prepend 'C:\Program Files\Git\usr\bin')
+nvim $nu.config-path
+nvim $nu.env-path
+y
+ls
+echo $env.PATH
+cd C:\Program Files\Git\usr\bin\
+cd `C:\Program Files\Git\usr\bin\`
+ls
+y
+pwd
+y
+ls
+which file
+y
+exit
+y
+nvim $nu.config-path
+ls
+y
+nm $nu.config-path
+y
+ls
+nvim App.tsx
+man
+man ls
+nvim ~/.config/nvim/init.lua
+cd  ~/.config/nvim/
+ls
+y
+cd  ~/.config/nvim/
+ls
+cd  ~/.config/nvim/
+bun run
+bun run dev
+ps | where name =~ sougou
+ps | where name =~ sou
+ps
+ps | where name =~ s
+ps | where name =~ sou
+ps | where name =~ so
+ls
+rm -r .
+rm .
+rm /
+rm ./
+y
+rm 14.6.0.9606\
+rm -r 14.6.0.9606\
+pwd
+cd 14.6.0.9606\
+ls
+rm .
+rm ./
+rm Resource.dll
+ps | where name =~ sig
+ps | where name =~ si
+ls
+cd ..
+cd Components\
+ls
+y
+ls
+rm Components\
+ls
+rm 14.6.0.9606\
+rm -r 14.6.0.9606\
+handle C:\Program Files (x86)\SogouInput\14.6.0.9606
+handle `C:\Program Files (x86)\SogouInput\14.6.0.9606`
+takeown /f "C:\Program Files (x86)\SogouInput\14.6.0.9606" /r /d y
+icacls "C:\Program Files (x86)\SogouInput\14.6.0.9606" /grant administrators:F
+rm -r "C:\Program Files (x86)\SogouInput\14.6.0.9606"
+cd ..
+rm SogouInput\
+rm -r SogouInput\
+cd SogouInput\
+pwd
+winget install GlazeWM
+ls
+cd ~/github-projects/
+git clone git@github.com:Mintimate/oh-my-rime.git
+y
+git clone git@github.com:Mintimate/oh-my-rime.git
+y
+ls
+cp oh-my-rime\ C:\Users\Administrator\AppData\Roaming\Rime
+cp -r oh-my-rime\ C:\Users\Administrator\AppData\Roaming\Rime
+ls
+pun
+bun --version
+scoop update bun
+ls
+y
+sdf
+sdf
+neofetch
+winget uninstall GlazeWM
+exit
+scoop install komorebi whkd
+komorebic quickstart
+komorebi
+komorebic start --whkd
+ls
+ls
+cd  ~/.config/
+y
+mkdir ~/.config/komorebi
+ls
+y
+komorebic stop --whkd
+komorebic start --whkd
+y
+komorebic stop --whkd
+komorebic start --whkd
+pwd
+komorebic stop --whkd
+nm $nu.config-path
+source $nu.config-path
+komorebic start --whkd
+pwd
+nm $nu.config-path
+komorebic start --whkd
+nm $nu.config-path
+komorebic start --whkd
+nm $nu.env-path
+nm $nu.config-path
+nm $nu.env-path
+komorebic start --whkd
+nm $nu.env-path
+komorebic start --whkd
+nm $nu.env-path
+komorebic start --whkd
+komorebic stop --whkd
+komorebic start --whkd
+y
+ls
+cdl
+cd  ~/.config/
+y
+komorebic stop --whkd
+komorebic start --whkd
+komorebic stop --whkd
+komorebic start --whkd
+~
+pwd
+cd ~/AppData/Local/Microsoft/
+ls
+y
+ls
+wt.exe 
+pwd
+komorebic stop --whkd
+komorebic start --whkd
+neovide
+~
+cd .config\
+y
+komorebic stop --whkd
+komorebic start --whkd
+y
+komorebic stop --whkd
+komorebic start --whkd
+ls
+ls
+exit
+cd .config\
+komorebic stop --whkd
+komorebic start
+ls
+cd .config\
+y
+komorebic stop --whkd
+komorebic start
+komorebic stop --whkd
+winget install GlazeWM
+glazewm
+y
+y
+ls
+start.bat
+y
+ls
+cd .glzr\
+y
+cd .glzr\
+y
+ls
+cd .config\
+ls
+y
+nm init.lua
+ls
+cd lua
+ls
+nm mappings.lua
+nm options.lua
+nm chadrc.lua
+cd plugins\
+ls
+nm init.lua
+y
+nm any.lua
+y
+nm init.lua
+y
+nm init.lua
+cd ..
+ls
+cd ..
+ls
+nm
+cd github-projects\
+y
+cd B
+cd BI\
+ls
+nm
+nm README.md
+code .
+hx
+scoop uninstall helix
+hx
+hx
+ls
+y
+cd ~/github-projects\
+ls
+cd ~/github-projects/BI/
+ls
+cd frontend\
+ls
+rm -r src\
+ls
+rm -r node_modules\
+ls
+pnpm create vite@latest bi-front  --template react-ts
+ls
+y
+ls
+pnpm run dev
+ls
+cd frontend\
+ls
+pnpm run dev
+pnpm add -g pnpm
+pnpm i
+pnpm add -g pnpm
+npm add -g pnpm
+pnpm -v
+pnpm add -g pnpm
+pnpm -v
+pnpm i
+pnpm run dev
+ls
+cd ..
+ls
+code .
+y
+ls
+rye self completion -s nushell | save --append $nu.env-path
+rye self update
+start
+scoop install dust
+dust
+dust ~
+y
+ls | where name =~ curs
+cd .cursor\
+ls
+cd extensions\
+ls
+y
+rm shd101wyy.markdown-preview-enhanced-0.8.14\
+rm -r shd101wyy.markdown-preview-enhanced-0.8.14\
+scoop  install grex
+grex -v
+grex -c '你坏赛j' '你'
+scoop install doggo
+doggo example.com
+doggo www.baidu.com
+doggo www.google.com
+doggo www.google.com | print
+doggo www.google.com | ls
+exrand doggo www.google.com 
+doggo www.google.com | to_table
+doggo www.google.com |  detect columns
+doggo www.baidu.com |  detect columns
+dog -v
+dog --version
+dog www.baidu.com
+dog www.google.com
+cd ..
+ls
+rm -r extensions\
+doggo www.baidu.com |  detect columns
+scoop install lsd
+lsd
+ls
+cd .
+cd..
+cd ..
+ls
+lsd
+lsd | detect columns
+lsd --tree
+cd Desktop\
+ls
+lsd --tree
+ls
+ls -t
+ls --tree
+lsd --tree | detect columns
+z foo
+scoop install zoxide
+z ..
+nm $nu.env-path
+source ~/.zoxide.nu
+z ..
+zoxide init nushell
+nu -v
+source ~/.zoxide.nu
+nm $nu.config-path
+z ..
+nm $nu.env-path
+nm $nu.config-path
+ls
+nm $nu.env-path
+rye self update
+nm $nu.env-path
+ls
+rye self completion -s nushell | save --append $nu.env-path
+scoop uninstall rye
+$env.PATH = ($env.PATH | split row (char esep) | append "~/.rye/shims")
+rye self completion -s nushell | save --append $nu.env-path
+ls
+nm $nu.env-path
+rye self update
+rye self completion -s nushell | save --append $nu.env-path
+nm $nu.env-path
+$env.PATH = ($env.PATH | split row (char esep) | append "~/.rye/shims")
+nm $nu.env-path
+ls
+set RYE_NO_AUTO_INSTALL=1
+nm $nu.env-path
+z ..
+ls 
+z Administrator\
+ls
+nm $nu.config-path
+scoop install fzf
+find * -type f | fzf > selected
+ls | fzf
+fzf
+^fzf
+ls | where extension == "txt" | each { |it| (fzf | str trim) }
+ps | where status == "running" | into str | fzf
+history | fzf
+history | reverse | each { echo [$it (char nl)] } | str collect | fzf --header '[HISTORY]' | cbs
+history | reverse | each { echo [$it (char nl)] } | str collect | fzf --header '[HISTORY]'
+history | reverse | each { echo [$it (char nl)] }
+z project  # 搜索包含 "project" 的目录
+z project 
+z --version
+z .
+z Favorites\
+ls
+z list
+z -r
+z --help
+z | fzf
+zoxide list  # 列出所有历史目录
+zoxide list 
+zoxide --help
+z -V
+zoxide -V
+z -
+ls
+z -
+z zs
+z zh
+z .z
+ls
+z sc
+z scoop
+cd ..
+z ..
+z sc
+y
+ls
+rm -r python\
+ls
+rye install ruff
+cd backend\
+ls
+rye init python
+y
+ls
+ls -a
+y
+rm -r python\
+rye init py_backend
+ls
+z py_backend\
+ls
+y
+rye pin 3.12
+rye sync
+python -c "import sys; print(sys.prefix)"
+rye toolchain list
+rye pin --relaxed cpython@3.11
+rye pin --relaxed cpython@3.12
+rye pin --relaxed cpython@3.11
+rye pin --relaxed cpython@3.12
+rye toolchain list
+rye sync
+python -c "import sys; print(sys.prefix)"
+ps | where name =~ neovim
+ps | where name =~ neo
+ps | where name =~ vim
+ps | where name =~ vscode
+ps
+ps | where name =~ code
+ps | where name =~ Code
+ls
+pwd
+hx
+rye list
+rye add "fastapi"
+y
+rye add "fastapi"
+rye list
+y
+rye run ruff
+z ..
+ls\
+ls
+rye run src\t1.py
+.venv\Scripts\activate
+rye run src\t1.py
+src\t1.py
+python src\t1.py
+rye sync
+python src\t1.py
+rye list
+y
+ls
+t1.py
+z ..
+python --version
+y
+y
+nm $nu.config-path
+y
+nm $nu.config-path
+y
+nm $nu.config-path
+ls
+y
+.venv\Scripts\activate
+ls
+pip list
+rye list
+deactivate
+ls
+deactivate
+z backend\py_backend\
+z -
+y -
+y ..
+yazi BI\
+y BI\backend\py_backend\
+ls
+deactivate
+.venv\Scripts\activate
+y
+z ..
+y ..
+rye show
+y
+ls
+rye show
+rye pin --relaxed cpython@3.12.6
+rye sync
+deactivate
+python --version
+deactivate
+source deactivate
+exit
+cd backend\
+cd py_backend\
+rye sync
+python --version
+rye toolchain list
+y
+python --version
+deactivate
+cd backend\py_backend\
+y
+deactivate
+y
+z ..
+nm $nu.config-path
+z ~/github-projects/BI/backend/py_backend
+ls
+y
+uv
+uv self update
+deactivate
+y
+rm -r py_backend\
+ls
+nm $nu.config-path
+z ~/github-projects/BI/backend/py_backend
+z ~/github-projects/BI/backend
+ls
+uv python list
+uv python find
+uv init hello-world
+rm -r hello-world\
+uv init py_backend
+z py_backend\
+ls
+z ..
+rm -r py_backend\
+ls
+uv init py_backend2
+z py_backend2\
+uv python install 3.13
+uv python list
+uv venv --python 3.13
+ls
+uv venv
+deactivate
+deactivatedeactivatedeactivate
+deactivate
+pwd
+y
+z ..
+rm -r py_backend2\
+ls
+rye init my-project
+z my-project\
+rye pin --relaxed cpython@3.13
+ls
+python --version
+rye sync
+rye toolchain list
+rye fetch
+y
+rye pin 3.10
+rye fetch
+rye sync
+python --version
+deactivate
+.venv\Scripts\activate
+python --version
+nm $nu.config-path
+nm $nu.env-path
+python -c "print("2")"
+z ..
+ls
+python --version
+which python
+z my-project\
+which python
+source deactivate
+deactivate
+y
+.venv\Scripts\activate
+which python
+python -m venv --help
+.venv\Scripts\activate
+z .venv\Scripts
+ls
+nm activate
+activate.bat 
+which python
+y
+ls
+z ..
+rm - r Python312\
+ls
+rm - r Python312
+rm -r Python312
+ls
+ls
+which python
+z ..
+ls
+cd ..
+z ..
+rm -r my-project\
+ls
+which python
+z ~/.rye/shims/
+ls
+y
+nm config.toml
+rye config --set-bool behavior.global-python=true
+nm config.toml
+rye init my-project2 
+rye pin 3.12.6
+z my-project2\
+ls
+ls -a
+y
+nm $nu.env-path
+y
+ls
+z ..
+rm -r my-project2\
+ls
+rye init py_backend
+z py_backend\
+rye pin 3.12.5
+ls
+rye sync
+ls
+z backend\py_backend\
+ls
+rye list
+y
+rye run t1.py
+q
+rye t1.py
+z ..
+.venv\Scripts\activate
+ls
+rye run src\t1.py
+python --version
+rye toolchain list
+which python
+python --version
+python run src\t1.py
+cd ..
+ls
+rm -r py_backend\
+ls
+neofetch 
+nm $nu.config-path
+z ~/.config/
+ls
+cd nvim 
+ls
+cd ..
+rm -r nvim\
+ls
+nm
+ps|sort-by mem
+ps|sort-by name
+wsl --shutdown
+wsl --list --verbose
+wsl --shutdown
+wsl --list --verbose
+wsl --unregister Arch
+wsl --list --verbose
+del ~\.wslconfig
+y
+%LOCALAPPDATA%\Packages\
+y
+z ~/AppData\Local\Packages\
+ls
+y
+ls
+y
+f
+z
+z `Local Settings\`
+z alp
+z AppData\Local\Packages\
+ls
+y
+ls
+y
+ps
+ps | where name =~ power
+ps | where name =~ get
+ps|sort-by mem
+ls
+pnpm add -g pnpm
+scoop update neovim
+scoop update nushell
+scoop update nu
+ps|where name =~ vsc
+ps|where name =~ Vsc
+ps|where name =~ code
+ps
+scoop update GlazeWM
+winget update GlazeWM
+winget install GlazeWM
+winget upgrade GlazeWM
+y
+z .config\
+y
+winget unistall GlazeWM
+winget uninstall GlazeWM
+winget uninstall zebar
+winget install zebar
+winget install GlazeWM
+z .glzr\
+nm ~/.config/starship.toml
+y
+z -
+z .config\
+nm .glzr\
+nm .glzr\glazewm\config.yaml
+which python
+rye toolchain list
+rye install python3.12
+overlay use C:/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/activate.nu
+ps
+ps | where name =~ vsc
+ps | where name =~ p
+ps | where name =~ vs
+ps | where name =~ code
+ps | where name =~ co
+ps | where name =~ py
+ps | where name =~ p
+ps | where name =~ dri
+ps | where name =~ sour
+ps | where name =~ ex
+ps | where name =~ exp
+ps
+ps | where name =~ vs
+ps | where name =~ v
+ps | where name =~ code
+ps
+ps | where name =~ py
+ps | where name =~ Vsc
+ps
+ps | where name =~ code
+ps | where name =~ Code
+y
+ls
+y
+ps | where name =~ Code
+ps | where name =~ py
+ps | sort-by mem
+deactivate
+y
+ps | sort-by mem
+exit
+ps | where name =~ Goo
+ps | where name =~ chrome
+ps | where name =~ chrome | kill
+ps | where name =~ chrome | killall
+ps | where name =~ chrome | killa
+ps | where name =~ chrome | kill
+ps | where name =~ "chrome" | select pid | each { kill -SIGTERM $_ }
+ps | where name =~ "chrome" | get pid | each {|pid| kill -f $pid}
+overlay use C:/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/activate.nu
+deactivate
+z CyLx\
+ls
+z Cy\
+ls
+mv drission\ tim\
+handle drission\
+handle.exe drission\
+scoop install handle
+z ..
+ls
+rm -r timeliness\
+rm -r drission\
+z ..
+rm -r drission\
+ps
+ls
+scoop update nu
+exit
+ls C:\Program Files\
+C:\Program Files | ls
+C:\Program Files\
+z C:\Program Files\
+C:/Program Files
+z 'C:\Program Files\'
+ls
+y
+which miktex
+scoop install xelatex
+scoop install texlive
+scoop bucket add extras
+scoop install texlive
+scoop bucket add latex
+scoop install miktex
+ps|sort-by mem
+scoop install kitty
+kitty
+nu -v
+ls
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+ls
+test1.py
+python run test1.py
+python test1.py
+poetry test1.py
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+ext
+exit
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+ls
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+which nu
+C:\Users\Administrator\scoop\shims\nu.exe D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+which nu
+cd /c/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/python
+C/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/python
+z 'C/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/python'
+z `C/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/python`
+z `~/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/python`
+z `~/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/<\n>`
+z ~/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12
+ls
+y
+zellij
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+cd ~
+ls
+nu D:\A_sf_py\Pair2\CyLx\Cy\timeliness\start_timeliness.nu
+cd 'D:\A_sf_py\Pair2\CyLx\Cy\timeliness';
+which python
+C:\Users\Administrator\AppData\Roaming\pypoetry\venv\Scripts\python.exe D:\A_sf_py\Pair2\CyLx\Cy\timeliness\test1.py
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12
+ls
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe
+git clone git@github.com:yebei199/BI.git
+ps|where name =~ py
+killa python.exe
+kill python.exe
+taskkill python.exe
+taskkill python.exe /F
+ps|where name =~ py
+kill 24792
+taskkill /PID 24792 /F
+ps|where name =~ py
+z ~/.config/
+ls
+y
+ls
+nvim -v
+scoop update neovim
+z ~/AppData\Local\nvim\
+z ~/AppData/Local/nvim
+ls
+y
+ls
+y
+ls -a
+ls
+ls|where name ~= nvim
+ls|where name =~ nvim
+ls|where name =~ n
+ls|where name =~ nv
+ls -a|where name =~ nv
+y
+ls
+vim
+nvim
+touch ~/.config/nvim/init.vim
+mkdir -p ~/.config/nvim
+mkdir  ~/.config/nvim
+mkdir -p ~/.config/nvim
+touch ~/.config/nvim/init.vim
+nvim  ~/.config/nvim/init.vim
+z ~/.config/nvim
+y
+z ~/.cache/nvim
+u
+y
+curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+wget -O ~/.local/share/nvim/site/autoload/plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+z ~/.config/nvim
+y
+git clone https://github.com/junegunn/vim-plug.git ~/.local/share/nvim/site/autoload/plug.vim
+z ~/.local/share/nvim
+y
+ls
+rm -r autoload\
+ls
+z ~/AppData\Local
+ls
+y
+& C:/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/Activate.ps1
+which nu
+ls
+y
+z ~/.config/nvim
+y
+ps|where name =~ vim
+kill 5240
+ps|where name =~ vim|kill
+ps | where name =~ vim | get pid | kill
+taskkill /PID 5240 /F
+ps|where name =~ vim
+z ~/.config/nvim
+pnpm -v
+y
+pnpm i
+pnpm self-update
+pnpm -v
+pnpm i
+pnpm run dev
+pnpm add biome -D
+pnpm add biome
+pnpm add -D biome
+pnpm ls
+pnpm add -D biome
+pnpm remove -D biome
+y
+pnpm add -D biome
+which nu
+biome -v
+biome --version
+y
+biome --version
+biome --help
+biome init
+biome fmt
+biome format
+z ./node_modules/.bin/biome
+pnpm add -D biome
+biome  
+pnpm remove  biome
+pnpm add -D biome
+y
+pnpm remove  biome
+z ..
+z y
+y
+pnpm remove  biome
+pnpm i @biomejs/biome -D
+biome --help
+pnpm add --save-dev --save-exact @biomejs/biome
+pnpm biome init
+ps|where name =~ vim
+taskkill /PID 14412 /F
+pnpm add -D unocss
+p
+pnpm install @visactor/react-vtable
+lazygit --version
+scoop install lazygit
+onefetch
+scoop install onefetch
+lazygit
+scoop install vim
+lazygit
+scoop install lefthook
+lefthook install
+pnpm i
+y
+which nu
+y
+pnpm i  @visactor/vtable -D
+kondo -v
+konda -v
+konda 
+kondo
+ls
+gitfetch
+onefetch
+z ..
+onefetch
+ps|sort-by mem
+ps|where name =~ py
+tasklist
+nu -v
+scoop update nushell
+scoop update nu
+ps
+ps|where name =~ web
+ntop
+ps|where name =~ py
+wmic process where name='<python.exe>' get ProcessId,Name,CreationDate
+wmic process where "name='python.exe'" get ProcessId,Name,CreationDate
+scoop install bottom
+bottom
+btm
+pnpm i -D zustand
+pnpm add swr
+pnpm self-update
+pnpm -v
+ls
+btm
+ls
+scoop -v
+ls
+scoop install zellij
+winget install zellij
+pnpm install @apollo/client graphql
+ls
+zellij
+winget install hatoo.oha
+biome init
+z frontend\
+biome init
+biome fmt
+pnpm biome init
+pnpm biome fmt
+pnpm biome lint --write
+pnpm biome lint
+pnpm biome lint --write C:\Users\Administrator\github-projects\BI\frontend\src\utils\graphql\main.ts
+z frontend\
+pnpm biome check --write C:\Users\Administrator\github-projects\BI\frontend\src\utils\graphql\main.ts
+ls
+python --version
+y
+rye sync
+overlay use .venv/Scripts/active.nu
+overlay use /.venv/Scripts/activate.nu
+overlay use /.venv/Scripts/activate
+overlay use /.venv/Scripts/activate.nu
+overlay use .venv/Scripts/activate.nu
+ls
+rye add pandas
+rye add sqlalchemy 
+lazygit
+y
+lazygit
+rye add sqlacodegen -D
+rye add sqlacodegen --dev
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye add sqlacodegen --dev
+rye add --pre sqlacodegen --dev
+y
+z
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye add strawberry
+rye add "strawberry-graphql[debug-server]"
+rye remove strawberry
+rye add "strawberry-graphql[debug-server]"
+strawberry server app
+y
+strawberry server app
+rye remove "strawberry-graphql[debug-server]"
+rye add graphene
+rye add graphene-python aiodataloader
+rye add graphene-python
+rye add aiodataloader
+lazygit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+y
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+rye list
+python src\utils\graphQL\app.py
+ls
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+python src\utils\graphQL\app.py
+rye list
+python src\utils\graphQL\app.py
+graphene -v
+graphene --version
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+rye add fastapi
+rye add starlette
+rye add uvicorn
+pip list
+rye list
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+rye add fastapi uvicorn graphene
+rye add starlette graphene
+rye list
+rye add starlette_graphql
+rye list
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+rye remove starlette starlette_graphql
+rye list
+rye remove starlette starlette-graphql
+rye list
+rye remove starlette
+rye list
+rye remove starlette
+rye remove uvicorn
+rye remove starlette
+rye list
+rye add starlette-graphene3
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+rye remove starlette-graphene3
+rye list
+rye add starlette-graphql
+rye list
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\app.py
+rye remove starlette-graphql
+rye remove graphene
+rye add 'strawberry-graphql[debug-server]'
+strawberry server schema
+y
+strawberry server schema
+rye add 'strawberry-graphql[fastapi]'
+strawberry server schema
+rye add uvicorn
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+rye add watchfiles
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye add jwt
+rye remove jwt
+rye add PyJWT
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+btm
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+y
+strawberry schema-codegen schema.graphql
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+y
+strawberry schema-codegen schema.graphql
+rye add strawberry[cli]
+strawberry schema-codegen schema.graphql
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema2.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+rye list
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+y
+strawberry schema-codegen schema.graphql
+rye add strawberry[cli]
+rye add magic
+rye add strawberry[all]
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+strawberry --version
+rye add typer
+rye list
+rye remove starlette
+rye remove strawberry-graphql[fastapi]
+rye remove strawberry-graphql[all]
+rye remove strawberry[all]
+rye sync
+rye add strawberry[cli]
+rye remove strawberry[cli]
+rye remove magic
+rye add  magic
+strawberry upgrade annotated-union .
+rye add 'strawberry-graphql[debug-server]'
+strawberry upgrade annotated-union .
+strawberry schema-codegen schema.graphql
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\graphQL\schema.py
+rye remove typer pyjwt
+rye add python-jose[cryptography] pydantic
+rye remove python-jose[cryptography]
+rye add install python-jose[cryptography] passlib[bcrypt] fastapi[all]
+rye add install python-jose[cryptography] passlib[bcrypt]
+rye add install python-jose[cryptography]
+rye add python-jose[cryptography] passlib[bcrypt] fastapi[all]
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+scoop update git
+choco upgrade git
+scoop update git
+git update-git-for-windows
+git --version
+git update-git-for-windows
+btm
+git --version
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye list
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+pnpm run dev
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+y
+ln -s ../frontend/biome.json biome.json
+lazygit
+y
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\fastapi\main.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\fastapi\main.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\fastapi\main.py
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+rye add mysql-connector-python
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+rye remove mysql-connector-python
+rye add aiomysql
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.pyoverlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\utils\creat_table.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+overlay use C:/Users/Administrator/AppData/Local/pypoetry/Cache/virtualenvs/pair2-VIKJRyG9-py3.12/Scripts/activate.nu
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --dry-run
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~
+bash `curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~`
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~
+bash curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~
+`curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~`| bash
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --prefix=~
+curl -fsSL https://d2lang.com/install.sh | sh -s -- --uninstall
+go install oss.terrastruct.com/d2
+ls
+pwd
+ls
+'sdfsd'
+nvim
+ls
+scoop install d2
+d2 --version
+d2
+which d2
+y
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye list
+pydantic --version
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\model.py
+eixt
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\my_query\model.py
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+exit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye sync
+rye add uvicorn
+python C:\Users\Administrator\github-projects\BI\backend\py_backend\src\utils\fastapi\main.py
+rye --version
+rye self update
+rye --version
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+nu -v
+lazygit
+ls
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+echo "这是一个警告消息" | nu-highlight --pattern "warn"
+> 'let x = 3' | nu-highlight
+> 'let x = 3' | nu-highlight 'x'
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+'sdfsd'| grep --color 's'
+'sdfsd'| grep --color 
+'sdfsd'
+echo "这是一个警告消息" | nu-highlight --theme ansi
+echo "这是一个警告消息" | nu-highlight --pattern "warn"
+echo "这是一个警告消息" | nu-highlight  "warn"
+echo "这是一个警告消息" | nu-highlight --s
+echo "这是一个警告消息" | nu-highlight
+echo "这是一个警告消息"
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+lazygit
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+y
+ls
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye add pymysql
+pnpm run dev
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+go --version
+go version
+pnpm install react-router-dom
+ls
+mkdir src/routes
+touch src/routes/root.tsx
+mkdir src/error
+touch src/routes/contact.tsx
+pnpm run dev
+pnpm install localforage match-sorter sort-by -D
+pnpm run dev
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+touch src/routes/edit.jsx
+biome fmt
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+biome fmt
+pnpm biome check --write
+pnpm biome check --write C:\Users\Administrator\github-projects\BI\frontend\src\routes\root.jsx
+zebar
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+pnpm biome check --write C:\Users\Administrator\github-projects\BI\frontend\src\routes\root.jsx
+pnpm biome init
+pnpm biome check --write C:\Users\Administrator\github-projects\BI\frontend\src\routes\root.jsx
+pnpm biome format ./src
+pnpm biome format --write ./src
+ls
+y
+touch src/routes/destroy.jsx
+touch src/routes/index.jsx
+lazygit
+q
+z ..
+lazygit& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+btm
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+y
+winget install prefix-dev.pixi
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+y
+ls
+pixi init pixi-hello-world
+ls
+z pixi-hello-world\
+ls
+pixi add python
+ls
+y
+pixi run python hello_world.py
+ls
+pixi run python hello.py
+pixi task add hello python hello_world.py
+python --version
+pixi run hello
+ls
+python
+pixi list
+btm
+conda --version
+pixi list
+pixi -v
+pixi --version
+pixi list
+conda --version
+pixi add pandas
+exit
+pixi shell
+ls
+y
+rm -r pixi-hello-world\
+ls
+ls -a
+pixi init pixi-py --format pyproject
+z pixi-py\
+ls
+pixi add pandas
+pixi add DrissionPage
+mkdir pixi_py
+type nul > pixi_py\__init__.py
+pixi add --pypi --feature test pytest
+pixi add DrissionPage --pypi
+pixi list
+pixi add pandas --pypi
+pixi add numpy --pypi
+exit
+pixi shell
+exit
+rm -r pixi-py\
+ls
+btm
+choco install rio-terminal
+ls
+pwd
+spf
+y
+spf
+y
+ls
+z ..
+ls
+btm
+pnpm add es-toolkit
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+pwd
+ls
+pwd
+ls
+pwd
+ls
+pwd
+zellij
+ping www.baidu.com
+doggo www.baidu.com |  detect columns
+& c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/Activate.ps1
+ssh 140.246.115.166
+ls
+nu -v
+scoop update nu
+ls
+btm
+nvim $nu.config-path
+wsl --shutdown
+y
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+rye add alembic
+y
+alembic init alembic
+y
+rye remove  alembic
+ls
+scoop update zebar
+choco update zebar
+winget upgrade GlazeWM
+winget uninstall  GlazeWM
+winget upgrade GlazeWM
+winget install GlazeWM
+y
+cd ~/.config/glazewm/
+ls
+y
+cd  backend\py_backend\
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+pandas --version
+rye list
+rye install ruff
+rye --version
+rye install ruff
+rye show
+rye add ruff -dev
+rye add ruff -d-ev
+rye add ruff --dev
+scoop install migrate
+y
+cd py_backend\
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+rye add pytest --dev
+pytest --version
+pnpm add @rspack/core @rspack/cli -D
+pnpm self-update
+rspack serve
+pnpm remove vite
+pnpm add @rsbuild/core -D
+pnpm add unocss @unocss/postcss -D
+pnpm install rspack-plugin-virtual-modules --save-dev
+p
+pnpm install rspack-plugin-virtual-modules --save-dev
+pnpm install rspack-plugin-virtual --save-dev
+rspack serve
+y
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+rye add pytest-asyncio --dev
+rye sync --update-all
+btm
+fzf
+ls
+rye sync --update-all
+cd  backend\py_backend\
+rye sync 
+rye shell
+shell
+.venv\Scripts\activate
+ls
+rye add pytest-asyncio --dev
+winget install --id Typst.Typst
+y
+ls
+rm -r my-trans\
+ls
+git clone git@github.com:yebei199/meow-memorizing.git
+ls
+bun --version
+bun i
+git config --global --add safe.directory D:/A_sf_py/meow-memorizing
+bun i
+bun add serialize-error
+bun run dev
+pnpm i
+y
+bun i
+bun add serialize-error
+bun i
+y
+ls -a
+y
+rm -r  node_modules\
+pnpm i
+y
+lazygit
+pnpm run dev
+viter --version
+pnpm add vite
+pnpm i
+pnpm remove vite
+pnpm add lie -D
+pnpm add -D ts-node
+pnpm ts-node src/copy.ts
+pnpm add -D typescript ts-node
+pnpm add -D typescript 
+pnpm ts-node src/copy.ts
+node -v
+pnpm ts-node src/copy.ts
+scoop update bun
+scoop install bun
+bun --version
+y
+bun --version
+bun i
+lazygit
+y
+cd py_backend\
+overlay use c:/Users/Administrator/github-projects/BI/backend/py_backend/.venv/Scripts/activate.nu
+ls
+ruff --version
+rye ruff --version
+uff --version
+btm
+wsl --shutdown
+btm
+nu -v
+django --version
+py -m django --version
+cd D:\A_sf_py\django_test_3
+y
+ls
+rm -r django_test_3\
+ls
+y
+mkdir django_bi
+y
+rye init django_bi
+cd django_bi\
+ls
+overlay use .venv/Scripts/activate.nu
+overlay use /.venv/Scripts/activate.nu
+rye add Django
+django --version
+py -m django --version
+overlay use /.venv/Scripts/activate.nu
+overlay use .venv/Scripts/activate.nu
+ls
+py -m django --version
+django-admin startproject mysite djangotutorial
+y
+rye sync
+y
+cd ..
+y
+cd djangotutorial\
+ls
+exit
+y
+z djangotutorial\
+cd D:\A_sf_py\djangotutorial\
+overlay use .venv/Scripts/activate.nu
+rye sync
+deactivate
+overlay use .venv/Scripts/activate.nu
+ls
+django-admin startproject mysite  djangotutorial
+cd ..
+django-admin startproject mysite  djangotutorial
+y
+ls
+y
+python manage.py runserver
+ls
+python manage.py runserver
+python manage.py startapp polls
+y
+code .
+overlay use d:/A_sf_py/djangotutorial/.venv/Scripts/activate.nu
+overlay use .venv/Scripts/activate.nu
+python manage.py migrate
+py manage.py migrate
+lazygit
+y
+ls
+lazygit
+ls -a
+rm -r .git\
+ls
+y
+ls
+git commit
+git config --global --add safe.directory D:/A_sf_py/djangotutorial
+lazygit
+overlay use .venv/Scripts/activate.nu
+py manage.py makemigrations polls
+py manage.py sqlmigrate polls 0001
+py manage.py migrate
+py manage.py shell
+scoop install  hyperfine
+hyperfine ls
+py manage.py createsuperuser
+rye add pydantic
+rye add djangorestframework
+y
+rye add d
+rye add markdown django-filter
+startproject tutorial
+overlay use .venv/Scripts/activate.nu
+startproject tutorial
+startapp quickstart
+django-admin startproject tutorial
+django-admin startproject tutorial2
+django-admin startapp quickstart
+y
+cd ..
+cd tutorial2\
+ls
+python manage.py migrate
+python manage.py createsuperuser --username admin --email admin@example.com
+python manage.py runserver
+cd ..
+ls
+rye add pygments
+cd tutorial2\
+python manage.py startapp snippets
+python manage.py makemigrations snippets
+python manage.py migrate snippets
+y
+python manage.py makemigrations snippets
+overlay use .venv/Scripts/activate.nu
+python manage.py makemigrations snippets
+python manage.py migrate snippets
+overlay use .venv/Scripts/activate.nu
+python manage.py makemigrations snippets
+python manage.py migrate snippets
+python manage.py shell
+rye add drf-spectacular  
+manage.py spectacular --color --file schema.yml
+./manage.py spectacular --color --file schema.yml
+rye add adrf
+y
+overlay use .venv/Scripts/activate.nu
+rye add adrf drf-spectacular pygments djangorestframework markdown
+cd src
+ls
+django-admin startproject tutorial3
+cd tutorial3\
+django-admin startapp quickstart
+rye list
+python version
+python --version
+overlay use .venv/Scripts/activate.nu
+overlay use ../.venv/Scripts/activate.nu
+rye list
+rye list -t
+y
+pnpm search react
+pnpm info react version
+pnpm search react
+pnpm remove vite
+pnpm add @rsbuild/core -D
+pnpm self-update
+p
+pnpm add @rsbuild/plugin-react -D
+pnpm add unocss @unocss/postcss -D
+scoop install deno
+deno rsbuild dev
+overlay use ../.venv/Scripts/activate.nu
+python manage.py inspectdb
+y
+rye add django-db-connection-pool
+cd src\
+python manage.py inspectdb
+cd backend\py_backend\
+overlay use .venv/Scripts/activate.nu
+python manage.py inspectdb
+python src/manage.py inspectdb
+y
+ls
+django-admin startproject mysite
+django-admin startproject my2222
+y
+overlay use .venv/Scripts/activate.nu
+django-admin startproject mysite
+cs src\
+cd src\
+ls
+django-admin startproject mysite
+py manage.py startapp polls
+y
+lazygit
+y
+cd ..
+ls
+overlay use .venv/Scripts/activate.nu
+rye sync
+btm
+cd D:\A_sf_py\Pair2\CyLx\Cy\timeliness\
+poetry list
+poetry show
+poetry show -t
+poetry run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+poetry python run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+poetry python D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+python D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+poetry D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+btm
+scoop install lazydocker
+poetry run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+poetry python run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+cd D:\A_sf_py\Pair2\CyLx\Cy\timeliness\
+lazydocker
+y
+overlay use .venv/Scripts/activate.nu
+rye build
+rye add 
+rye add polars
+y
+ls
+scoop install eza
+eza
+eza -a
+eza -t
+eza -1
+eza -a -T
+eza -T
+fastfetch
+scoop install fastfetch
+fastfetch
+wsl --list
+wsl --unregister Arch
+wsl --list
+fastfetch
+%USERPROFILE%\AppData\Local\Packages
+cd %USERPROFILE%\AppData\Local\Packages
+~\AppData\Local\Packages
+y
+dust
+dust .
+y
+ls
+ls|sort-by size
+ls|sort-by size desc
+ls|sort-by size
+u
+y
+ls|sort-by size
+y
+ls|sort-by size
+~\AppData\Local\Packages
+y
+ls
+fastfetch
+ls
+ls|sort-by size
+rm -r PyCharm2024.1\ PyCharm2024.2\ WebStorm2024.1\ WebStorm2024.2\ IntelliJIdea2024.1\ IntelliJIdea2024.2\
+btm
+fastfetch
+btm
+ls
+z d/d
+z ~
+y
+z ch
+z ..
+z ch_
+scoop install sampler
+sampler
+poetry run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+git clone git@github.com:fastapi/full-stack-fastapi-template.git my-full-stack
+cd my-full-stack\
+ls
+rye toolchain list
+rye tools list
+rye install copier
+rye tools list
+z d:\A_sf_py\
+ls
+y
+ls
+copier copy https://github.com/fastapi/full-stack-fastapi-template my-awesome-project --trust
+y
+uv sync
+y
+overlay use .venv/Scripts/activate.nu
+ls
+y
+overlay use .venv/Scripts/activate.nu
+fastapi run --reload app/main.py
+code .
+y
+code .
+overlay use d:/A_sf_py/my-awesome-project/backend/.venv/Scripts/activate.nu
+ls
+overlay use d:/A_sf_py/my-awesome-project/backend/.venv/Scripts/activate.nu
+deactivate
+ls
+pnpm i
+y
+bun i
+fastapi run --reload app/main.py
+bun run dev
+y
+overlay use d:/A_sf_py/my-awesome-project/backend/.venv/Scripts/activate.nu
+deactivate
+overlay use .venv/Scripts/activate.nu
+rye sync
+deactivate
+scoop install kanata
+kanata
+scoop update git
+choco update zebar
+winget upgrade zebar
+winget upgrade git
+git update
+poetry run D:\A_sf_py\Pair2\CyLx\Cy\timeliness\scheduer_timeliness.py
+btm
+zebar update
+winget upgrade zebar
+choco update glazewm
+winget upgrade glazewm
+winget uninstall glazewm
+scoop install glazewm
+scoop uninstall glazewm
+winget install glazewm
+scoop install extras/abdownloadmanager
+scoop update lefthook
+bun i
+y
+bun add zustand
+fastfetch
+pnpm update
+bun i
+which bun
+poetry run D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+cd D:\A_sf_py\Pair2
+ls
+poetry run D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+python run D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+python run D:/A_sf_py/Pair2\Report/scheduler/win_1.py
+poetry run D:/A_sf_py/Pair2\Report/scheduler/win_1.py
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+scoop install just
+just recipe-name
+just
+just test
+just test build
+just
+just test 
+just
+ls
+just
+just --summary
+just --list --list-prefix ····
+just b
+just clean
+just system-info
+y
+ls
+ls|sort-by  modified
+y
+poetry add openpyxl
+pnpm update
+pnpm i
+scoop install v2rayN
+choco install v2rayN
+y
+winget install v2rayn
+choco install v2rayN
+pydantic --version
+poetry show -t
+poetry update
+poetry cache clear
+poetry update
+D:\A_sf_py\LxApi
+ls
+poetry update
+D:/A_sf_py\Pair2
+poetry update
+scoop install zed
+bun i
+bun update
+scoop install wezterm
+ls
+'hh'
+ls
+pwd
+ls
+wezterm
+ls
+hh
+pwd
+ls
+y
+ls
+scoop install spotify-player
+spotify-player
+spotify_player
+spotify-player
+spotify player
+spotify_player
+fastfetch
+ls
+scoop install jopin
+scoop install joplin
+btm2
+bun update
+bun add  lightweight-charts
+pnpm add  lightweight-charts
+pnpm self-update
+btm
+pnpm self-update
+~
+pnpm self-update
+pnpm add  lightweight-charts
+pnpm remove alightweight-charts
+pnpm remove lightweight-charts
+pnpm add echarts-for-react
+pnpm add echarts --save
+pnpm reomve echarts-for-react
+pnpm remove echarts-for-react
+scoop install kitty
+kitty
+scoop install kitty
+scoop uninstall kitty
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin \
+btm
+kitty
+nvim %APPDATA%\alacritty\alacritty.toml
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+1btm
+btm
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+python --version
+poetry add pytest-asyncio
+D:\A_sf_py\Pair2
+poetry lock
+poetry install
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+scoop install wave
+choco install wave
+wave
+ls
+cd 
+cd D:\A_sf_py\Pair2
+ls
+nvim ~/.config/waveterm/
+~/.config/waveterm/
+ls
+wsh editconfig
+y
+ls
+rye --version
+rye self update
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+btm
+rye self update
+fa
+fastfetch
+y
+rye init robyn_1
+y
+robyn_1\
+ls
+pycharm .
+ls -a
+rye add robyn
+y
+.venv\Scripts\activate
+overlay use .venv/Scripts/activate.nu
+$ python -m robyn --create
+python -m robyn --create
+rye sync
+rye add sqlalchemy 
+btm
+glazewm --version
+scoop --version
+glazewm --version
+winget uninstall glazewm
+winget install glazewm
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\Report\scheduler\win_1.py
+btm
+C:\Users\Administrator\AppData\Local\pypoetry\Cache\virtualenvs\pair2-VIKJRyG9-py3.12\Scripts\python.exe D:\A_sf_py\Pair2\CyLx\Cy\timeliness\timeliness_report.py
+hx
+cd D:\A_sf_py\Pair2
+poetry update
+cd D:\A_sf_py\Pair2
+poetry update
+hx
+scoop update helix
+choco install helix
+choco update  helix
+helix --version
+hx --version
+winget uninstall Helix.Helix
+which hx
+rm C:\Users\Administrator\.cargo\bin\hx.exe
+w
+which hx
+scoop install helix
+which hx
+hx
+nvim
+vim
+nvim
+ls
+cd ~/.config
+ls
+y
+ls
+nvim
+hx init.vim
+nvim
+hx init.vim
+nvim
+hx 
+nvim 
+scoop install radarr
+btm
+scoop install emacs
+emacs
+scoop update nvim
+scoop update neovim
+%USERPROFILE%\AppData\Local\nvim
+cd %USERPROFILE%\AppData\Local\nvim
+cd  ~\AppData\Local\nvim
+cd  ~/AppData/Local/nvim
+y
+cd ~/.config
+cd nvim\
+git clone https://github.com/NvChad/starter
+y
+nvim
+vim
+nvim
+y
+rm -r ./
+rm -r init.vim
+rm -r starter\
+ls
+git clone https://github.com/NvChad/starter
+nvim
+y
+nvim
+cd ~/.config/nvim/
+ls -a
+y
+ls
+nvim t1.py
+y
+scoop update yazi
+ya
+nvim t1.py
+y
+cd ~/.config/
+y
+nvim yazi.toml
+y
+which nvim
+nvim yazi.toml
+y
+C:\Users\Administrator\.config\yazi\config
+y
+nvim yazi.toml
+y
+nvim yazi.toml
+y
+nvim yazi.toml
+y
+nvim $nu.env-path
+which nvim
+y
+nvim yazi.toml
+yazi
+setx EDITOR nvim
+y
+setx EDITOR nvim
+nvim yazi.toml
+cd ~/AppData\Roaming\yazi\config\
+y
+cd ~/.config/yazi
+nvim yazi.toml
+fastfetch
+y
+pnpm install -g pyright
+npm install -g pyright
+pnpm install -g pyright
+y
+cd ~/.config/my_projects/
+y
+cd  ~\AppData\Local
+y
+btm
+cd ~/.config/my_projects/
+y
+scoop update neovide
+neovide
+choco update neovide
+which neovide
+rm C:\Users\Administrator\.cargo\bin\neovide.exe
+neovide
+scoop install  neovide
+which neovide
+neovide t2.py
+pnpm uninstall -g pyright
+neovide t1.py
+nvim
+y
+hx init.lua
+y
+nvim init.lua
+choco install mingw
+cd ~/.config/my_projects/
+y
+hx t1.py
+nvim t1.py
+y
+cd D:\A_sf_py\Pair2
+y
+y
+cd ~/AppData\
+y
+cd %AppData%\helix\
+hx t1.py
+y
+cd ~/.config
+hx t1.py
+nvim t1.py
+y
+hx t1.py
+y
+cd ~/.config
+ls
+y
+ls
+y
+scoop install television
+btm
+scoop install trippy
+trippy
+trippy www.baidu.com
+scoop install trippy
+trippy www.baidu.com
+exit
+trippy www.baidu.com
+which trippy
+scoop uninstall trippy
+scoop install trippy
+trippy www.baidu.com
+which trippy
+choco install trippy
+which trippy
+trippy www.baidu.com
+choco uninstall trippy
+which trippy
+scoop install trippy
+scoop update trippy
+which trippy
+which btm
+C:\Users\Administrator\scoop\shims\
+y
+C:\Users\Administrator\scoop\shims\trip.exe www.baidu.com
+y
+which btm
+which trippy
+trippy www.baidu.com
+which trippy
+trippy www.baidu.com
+btm
+trip www.baidu.com
+trip www.google.com
+trip https://github.com/
+trip wwww.github.com/
+trip wwww.github.com
+trip wwww.baidu.com
+trip wwww.bilibili.com
+trip wwww.bilibil.com
+cd ~/.config
+y
+trip wwww.bilibil.com
+y
+trip --print-config-template > trippy.toml
+y
+trip --print-config-template > trippy.toml | nvim trippy.toml
+y
+trip --print-config-template > trippy.toml ; nvim trippy.toml
+trip --print-config-template > trippy.toml > nvim trippy.toml
+y
+pwd
+pwd | nvim test.txt
+pwd > test.txt
+pwd | save test.txt
+y
+trip --print-config-template > trippy.toml > save trippy.toml
+y
+trip --print-config-template > trippy.toml | save trippy.toml
+y
+trip --print-config-template | save trippy.toml
+y
+trip wwww.baidu.com
+y
+trip wwww.baidu.com
+trip wwww.baidu.com --tcp
+trip wwww.baidu.com
+y
+trip wwww.baidu.com
+y
+trip wwww.baidu.com
+nvm trippy.toml
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+nvim trippy.toml
+trip wwww.baidu.com
+trip wwww.baidu.com  --tui-geoip-mode long
+trip wwww.baidu.com  --tui-geoip-mode Long
+trip wwww.baidu.com  --tui-geoip-mode long
+trip wwww.baidu.com  --geoip-mmdb-file GeoLite2-City.mmdb --tui-geoip-mode short
+trip wwww.heihei.com
+trip www.182.43.202.226:1707/#/bi/FullIndexScore
+trip http://182.43.202.226:1707/#/bi/FullIndexScore
+trip http://182.43.202.226:1707
+trip www.182.43.202.226:1707
+trip 182.43.202.226:1707
+trip 182.43.202.226
+git clone git@github.com:yebei199/system-config.git
+y
+rye init py
+y
+cd ~/.config
+y
