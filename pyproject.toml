@@ -1,6 +1,6 @@
 [project]
-name = "py"
-version = "0.1.0"
+name = "system-config"
+version = "0.0.1"
 description = "Add your description here"
 authors = [
     { name = "yebei199", email = "scauyb@qq.com" }
@@ -15,10 +15,17 @@ build-backend = "hatchling.build"
 
 [tool.rye]
 managed = true
-dev-dependencies = []
+dev-dependencies = [
+    "ruff>=0.7.3",
+    "pytest>=8.3.3",
+    "pytest-asyncio>=0.24.0",
+]
 
 [tool.hatch.metadata]
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/py"]
+
+[tool.pytest.ini_options]
+asyncio_default_fixture_loop_scope = "module"  # 您可以根据需要选择 'function', 'class', 'module', 'package', 'session'

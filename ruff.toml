@@ -1,0 +1,28 @@
+fix = true
+line-length = 80
+indent-width = 4
+extend-include = ["*.ipynb"]
+include = ["*.py", "*.toml"]
+output-format = "grouped"
+
+[lint]
+select = [
+    "E", "W", "N", "PD", "F", "UP", "B", "SIM", "PL", "C90", "I",
+]
+ignore = ["E501", "E203", "E301", "PLR0913"]#,"F401" import deleted
+extend-safe-fixes = ["F601", "PD002", "N804", "N805", "I001"]
+extend-unsafe-fixes = ["UP034", "I001"]
+
+[mccabe]
+max-complexity = 10
+
+
+[format]
+skip-magic-trailing-comma = false
+
+exclude = ["*.pyi"]
+docstring-code-format = true
+# 使用单引号
+quote-style = "single"
+line-ending = "auto"
+indent-style = "space"

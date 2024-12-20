@@ -2429,3 +2429,21 @@ rye init py
 y
 cd ~/.config
 y
+trip www.zhihu.com
+btm
+rye sync
+y
+overlay use .venv/Scripts/activate.nu
+y
+hx 0874c1e32ca61f230ad2bd523a409e9b_1_0
+nvim 0874c1e32ca61f230ad2bd523a409e9b_1_0
+ls
+y
+hx 0874c1e32ca61f230ad2bd523a409e9b_1_0
+y
+cd D
+cd D/
+cd D:\A_sf_py\system-config
+cd ~
+y
+cd ~/.config
