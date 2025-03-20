@@ -1,20 +1,17 @@
 import os
 import shutil
+from datetime import datetime
 
 
 class PullPush:
+    backup_dir_prefix = 'yb_backup_'
+
     def __init__(self, local_folder_path: str, remote_folder_path: str):
         self.local_folder_path = local_folder_path
         self.remote_folder_path = remote_folder_path
 
     def pull_from_local(self):
-        """
-        从本地拉取整个配置文件夹到远程位置。
-
-        Args:
-            local_folder_path (str): 源文件夹路径
-            remote_folder_path (str): 目标文件夹路径
-        """
+        """从本地拉取整个配置文件夹到远程位置。"""
         local_folder_path = self.local_folder_path
         remote_folder_path = self.remote_folder_path
         if not os.path.exists(local_folder_path):
@@ -24,13 +21,19 @@ class PullPush:
         if not os.path.exists(remote_folder_path):
             os.makedirs(remote_folder_path)
         else:
-            # 清空远程文件夹内容
-            for filename in os.listdir(remote_folder_path):
-                file_path = os.path.join(remote_folder_path, filename)
-                if os.path.isfile(file_path) or os.path.islink(file_path):
-                    os.unlink(file_path)  # 删除文件或符号链接
-                elif os.path.isdir(file_path):
-                    shutil.rmtree(file_path)  # 删除子目录及其内容
+            time_str = datetime.now().strftime('%Y_%m_%d_%H_%M')
+            backup_dir = os.path.join(
+                self.remote_folder_path, self.backup_dir_prefix + time_str
+            )
+            os.makedirs(backup_dir)  # 创建备份根目录
+            # 移动原内容到备份目录
+            for entry in os.listdir(self.remote_folder_path):
+                # 忽略备份目录
+                if entry.startswith(self.backup_dir_prefix):
+                    continue
+                src = os.path.join(self.remote_folder_path, entry)
+                dst = os.path.join(backup_dir, entry)
+                shutil.move(src, dst)
 
         # 复制本地文件夹到远程位置
         for root, _, files in os.walk(local_folder_path):
