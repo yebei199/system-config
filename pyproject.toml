@@ -14,9 +14,10 @@ build-backend = "hatchling.build"
 [tool.uv]
 managed = true
 dev-dependencies = [
-    "ruff>=0.9",
-    "pytest>=8.3.3",
-    "pytest-asyncio>=0.24.0",
+    "mypy",
+    "ruff",
+    "pytest",
+    "pytest-asyncio",
 ]
 
 [tool.hatch.metadata]

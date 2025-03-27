@@ -27,7 +27,7 @@ class Nvim:
 # pull_from_local('/path/to/local/folder', '/path/to/remote/folder')
 def main():
     nvim = Nvim()
-    nvim.pull_push.pull_from_local()
+    nvim.pull_push.copy_from_local()
     print(nvim.remote_path)
     pass
 
