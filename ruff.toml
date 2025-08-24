@@ -9,9 +9,9 @@ output-format = "grouped"
 select = [
     "E", "W", "N", "PD", "F", "UP", "B", "SIM", "PL", "C90", "I",
 ]
-ignore = ["E501", "E203", "E301", "PLR0913"]#,"F401" import deleted
+ignore = ["E501", "E203", "E301", "PLR0913"]
 extend-safe-fixes = ["F601", "PD002", "N804", "N805", "I001"]
-extend-unsafe-fixes = ["UP034", "I001"]
+extend-unsafe-fixes = ["UP034"]
 
 [mccabe]
 max-complexity = 10
