@@ -14,3 +14,4 @@ nnoremap <C-a> GVgg
 
 " f键双向查找配置
 nnoremap f <Plug>(leap)
+nnoremap F <Plug>(leap-backward-to)
