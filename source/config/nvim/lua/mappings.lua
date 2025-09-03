@@ -13,5 +13,5 @@ map ("n","H", "^")
 
 map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
 
-map({"n","v"}, "f", "<plug>(leap-anywhere)")
+-- map({"n","v"}, "f", "<plug>(leap-anywhere)")
 

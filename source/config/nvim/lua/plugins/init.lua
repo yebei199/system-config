@@ -1,7 +1,7 @@
 return {
   {
     "stevearc/conform.nvim",
-    -- event = 'BufWritePre', -- uncomment for format on save
+    event = 'BufWritePre', -- uncomment for format on save
     opts = require "configs.conform",
   },
 
@@ -22,16 +22,21 @@ return {
 {
   "ggandor/leap.nvim",
   keys = {
-    { "s", mode = { "n", "x", "o" }, desc = "Leap forward to" },
-    { "S", mode = { "n", "x", "o" }, desc = "Leap backward to" },
-    { "gs", mode = { "n", "x", "o" }, desc = "Leap from windows" },
+    { "f", mode = { "n", "x", "o" }, desc = "Leap bidirectional" },
   },
   config = function(_, opts)
     local leap = require("leap")
     for k, v in pairs(opts) do
       leap.opts[k] = v
     end
-    -- leap.create_default_mappings(false)
+    -- 绑定 f 为双向跳转并在跳转后居中
+    vim.keymap.set({ "n", "x", "o" }, "f", function()
+      leap.leap { target_windows = { vim.fn.win_getid() } }
+      -- 延迟到跳转完成后执行居中
+      vim.schedule(function()
+        vim.cmd("normal! zz")
+      end)
+    end, { desc = "Leap bidirectional + center" })
   end,
 }
 ,
