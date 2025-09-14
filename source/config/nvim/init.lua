@@ -26,7 +26,6 @@ require("lazy").setup({
   --   ensure_installed = { "lua_ls", "pyright" }, -- Ensure these servers are installed
   --   automatic_installation = true,
   -- },
-
   { import = "plugins" },
 }, lazy_config)
 

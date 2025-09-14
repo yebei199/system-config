@@ -1,31 +1,37 @@
 [project]
 name = "system-config"
-version = "0.0.1"
+version = "0.1.0"
 description = "Add your description here"
-authors = [
-    { name = "yebei199", email = "scauyb@qq.com" }
-]
-dependencies = []
 readme = "README.md"
-requires-python = ">= 3.8"
+requires-python = ">=3.12"
+dependencies = [
+    "loguru>=0.7.3",
+    "pendulum>=3.0.0",
+    "yarl>=1.19.0",
+]
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.rye]
+[tool.uv]
 managed = true
 dev-dependencies = [
-    "ruff>=0.7.3",
-    "pytest>=8.3.3",
-    "pytest-asyncio>=0.24.0",
+    "mypy",
+    "ruff",
+    "pytest",
+    "pytest-asyncio",
 ]
 
 [tool.hatch.metadata]
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/py"]
+packages = ["."]
+
+
+# Exclude a variety of commonly ignored directories.
+exclude = []
 
 [tool.pytest.ini_options]
 asyncio_default_fixture_loop_scope = "module"  # 您可以根据需要选择 'function', 'class', 'module', 'package', 'session'
